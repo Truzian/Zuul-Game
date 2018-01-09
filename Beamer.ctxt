@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Beamer
+comment0.text=\r\n\ A\ beamer\ can\ be\ charged\ and\ fired.\ When\ you\ charge\ the\ beamer\ it\ remembers\r\n\ what\ room\ it\ was\ charged\ in\ and\ when\ fired,\ transports\ the\ player\ to\r\n\ that\ room.\ \r\n\r\n\ @author\ Leonardo\ Paz\r\n\ @version\ 2017.07.11\r\n
+comment1.params=name\ desc\ weight
+comment1.target=Beamer(java.lang.String,\ java.lang.String,\ double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Beamer\r\n\ \r\n\ @param\ desc\ A\ short\ description\ of\ the\ item\r\n\ @param\ weight\ The\ weight\ of\ the\ item\r\n\ @param\ name\ The\ name\ of\ the\ item\r\n
+comment2.params=room
+comment2.target=void\ charge(Room)
+comment2.text=\r\n\ This\ method\ charges\ the\ beamer\ and\ stores\ the\ room\ for\ when\ fire\r\n\ is\ called.\r\n\r\n\ @param\ room\ The\ room\ that\ the\ beamer\ is\ charged\ in\r\n
+comment3.params=
+comment3.target=Room\ getChargedRoom()
+comment3.text=\r\n\ This\ method\ returns\ the\ charged\ room.\r\n\ \r\n\ @return\ The\ room\ where\ the\ beamer\ was\ charged\r\n
+comment4.params=
+comment4.target=boolean\ isCharged()
+comment4.text=\r\n\ This\ method\ returns\ whether\ or\ not\ the\ beamer\ is\ charged.\r\n\ \r\n\ @return\ True\ if\ the\ beamer\ is\ charged,\ false\ otherwise\r\n
+numComments=5

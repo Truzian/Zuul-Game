@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Item\ here.\r\n\r\n\ @author\ Leonardo\ Paz\r\n\ @version\ October\ 20,\ 2017\r\n
+comment1.params=name\ desc\ weight
+comment1.target=Item(java.lang.String,\ java.lang.String,\ double)
+comment1.text=\r\n\ Constructs\ an\ item\ with\ a\ description\ of\ the\ item\ and\ weight\ of\ the\ item\r\n\ \r\n\ @param\ desc\ A\ short\ description\ of\ the\ item\r\n\ @param\ weight\ The\ weight\ of\ the\ item\r\n\ @param\ name\ The\ name\ of\ the\ item\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ This\ method\ returns\ a\ string\ representation\ of\ the\ item\ containing\ its\ description\r\n\ and\ weight\ in\ the\ form\:\r\n\ \ \ \ \ A\ Toothbrush\r\n\ \ \ \ \ Weight\ in\ lbs\:\ 0.5\r\n\ \r\n\ @return\ A\ string\ respresentation\ of\ the\ item\r\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\ \r\n\ This\ method\ returns\ the\ name\ of\ the\ item\ in\ string\ representation.\r\n\ \r\n\ @return\ The\ name\ of\ the\ item\r\n
+numComments=4
